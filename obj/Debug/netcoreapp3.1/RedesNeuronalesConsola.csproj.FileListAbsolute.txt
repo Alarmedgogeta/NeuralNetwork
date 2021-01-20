@@ -1,0 +1,13 @@
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.exe
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.deps.json
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.runtimeconfig.json
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.runtimeconfig.dev.json
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.dll
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\bin\Debug\netcoreapp3.1\RedesNeuronalesConsola.pdb
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.csprojAssemblyReference.cache
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.AssemblyInfoInputs.cache
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.AssemblyInfo.cs
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.csproj.CoreCompileInputs.cache
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.dll
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.pdb
+C:\Users\yadir\Documents\Escuelas\UVM\Septimo semestre\Ingenieria de sistemas basados en el conocimiento\RedesNeuronalesConsola\obj\Debug\netcoreapp3.1\RedesNeuronalesConsola.genruntimeconfig.cache
